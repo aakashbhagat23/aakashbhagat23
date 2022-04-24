@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aakashbhagat23
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Mobile app & Game Development
-- 💞️ I’m looking to collaborate on XR
+- 🌱 I’m currently Working as software engineer
+- 💞️ Good Experience on Wordpress & MERN.
 - 📫 contact me on ab.aakashbhagat@gmail.com
 
 <!---
