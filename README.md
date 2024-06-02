@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aakashbhagat23
 - 👀 I’m interested in Programming
 - 🌱 I’m currently Working as software engineer
-- 💞️ Good Experience on Wordpress & MERN.
+- 💞️ Good Experience on MERN, Next JS & Svelte Js.
 - 📫 contact me on ab.aakashbhagat@gmail.com
 
 <!---
